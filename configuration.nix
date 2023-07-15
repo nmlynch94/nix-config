@@ -176,7 +176,6 @@
     git
     unzip
     mgba
-    gnome.gnome-disk-utility
     anydesk
     protontricks
     p7zip
